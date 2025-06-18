@@ -29,13 +29,16 @@ Techniques Used
 
     Model: Random Forest with depth, split, and leaf control for regularization.
 
+
 Performance
 
-  The trained RandomForestClassifier achieves a test accuracy of:
-  (pred1 == y_test).mean()  # Final evaluation score
-
+    The trained RandomForestClassifier achieves a test accuracy of:
+      (pred1 == y_test).mean()  # Final evaluation score
+      
 Requirements
-  pip install pandas numpy seaborn matplotlib sklearn dtale klib summarytools
+      
+      pip install pandas numpy seaborn matplotlib sklearn dtale klib summarytools
 
 Remarks
-  This project emphasizes disciplined preprocessing and data integrity before applying any model. Feature curation, cleaning, and proper handling of missing values contribute significantly to stable model generalization.
+
+      This project emphasizes disciplined preprocessing and data integrity before applying any model. Feature curation, cleaning, and proper handling of missing values contribute significantly to stable model generalization.
