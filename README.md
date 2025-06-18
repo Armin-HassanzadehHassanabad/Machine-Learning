@@ -41,4 +41,5 @@ Requirements
 
 Remarks
 
-      This project emphasizes disciplined preprocessing and data integrity before applying any model. Feature curation, cleaning, and proper handling of missing values contribute significantly to stable model generalization.
+      This project emphasizes disciplined preprocessing and data integrity before applying any model. 
+      Feature curation, cleaning, and proper handling of missing values contribute significantly to stable model generalization.
